@@ -1,0 +1,61 @@
+http://anatomy.md.kku.ac.th/ 127.0.0.1 20170101054747 text/html 179
+
+http://agri.kps.ku.ac.th/ 127.0.0.1 20170101054747 text/html 434
+
+http://anchan.lib.ku.ac.th/ 127.0.0.1 20170101054747 text/html 365
+
+http://9airmobile.thaigov.net/ 127.0.0.1 20170101054747 text/html 339
+
+http://anreg.cpe.ku.ac.th/ 127.0.0.1 20170101054747 text/html 446
+
+http://amed.go.th/ 127.0.0.1 20170101054747 text/html 935
+
+http://3d.co.th/ 127.0.0.1 20170101054747 text/html 283
+
+http://3d.co.th/2012/king9/index.html 127.0.0.1 20170101054747 text/html 875
+
+http://amarin.co.th/ 127.0.0.1 20170101054747 text/html 635
+
+http://100watts.com/ 127.0.0.1 20170101054747 text/html 303
+
+http://admissions.payap.ac.th/ 127.0.0.1 20170101054747 text/html 400
+
+http://agro.psu.ac.th/ 127.0.0.1 20170101054748 text/html 1761
+
+http://adb.envi.psu.ac.th/ 127.0.0.1 20170101054748 text/html 294
+
+http://acc.msu.ac.th/ 127.0.0.1 20170101054748 text/html 1114
+
+http://acc.msu.ac.th/index2016.php 127.0.0.1 20170101054748 text/html 1114
+
+http://apl1.sci.kmitl.ac.th/ 127.0.0.1 20170101054748 text/html 1176
+
+http://4x4.in.th/ 127.0.0.1 20170101054748 text/html 20198
+
+http://101servers.com/ 127.0.0.1 20170101054748 text/html 231
+
+http://ads.thaiware.com/ 127.0.0.1 20170101054748 text/html 4201
+
+http://ads.thaiware.com/www/admin/index.php 127.0.0.1 20170101054748 text/html 4201
+
+http://ads.thaiware.com/www/admin/password-recovery.php 127.0.0.1 20170101054748 text/html 2997
+
+http://animal.in.th/ 127.0.0.1 20170101054748 text/html 40301
+
+http://animal.agri.cmu.ac.th/ 127.0.0.1 20170101054748 text/html 6112
+
+http://animal.agri.cmu.ac.th/greet.htm 127.0.0.1 20170101054748 text/html 19824
+
+http://asiasoft.co.th/ 127.0.0.1 20170101054748 text/html 248
+
+http://atjapan.pantipmember.com/ 127.0.0.1 20170101054748 text/html 317
+
+http://9korn.reddiary.com/ 127.0.0.1 20170101054748 text/html 1691
+
+http://adslthailand.com/ 127.0.0.1 20170101054749 text/html 92548
+
+http://atimemedia.com/ 127.0.0.1 20170101054749 text/html 38471
+
+http://adex.shinbroadband.com/ 127.0.0.1 20170101054749 text/html 20695
+
+http://area-family.com/ 127.0.0.1 20170101054751 text/html 1691
