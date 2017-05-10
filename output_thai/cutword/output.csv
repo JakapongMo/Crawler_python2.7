@@ -1,0 +1,898 @@
+word,part_of_speechs
+"ภาค","noun,classifier"
+"วิชา","noun,classifier"
+"สัตวศาสตร์","noun,phrase"
+"และ","conjunction"
+"สัตว์น้ำ","noun"
+" ",
+"คณะ","noun,classifier"
+"เกษตรศาสตร์","noun"
+" ",
+"มหาวิทยาลัยเชียงใหม่","noun"
+"รอง","verb,transitive,intransitive,adjective"
+"ศาสตราจารย์","noun"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"ดร",
+".",
+"ศุภ","adjective"
+"มิตร","noun"
+" ",
+"เมฆ","noun"
+"ฉาย","verb,noun"
+"	",
+"	",
+"	",
+"	",
+"	",
+"หัวหน้า","noun"
+"ภาค","noun,classifier"
+"วิชา","noun,classifier"
+"สัตวศาสตร์","noun,phrase"
+"และ","conjunction"
+"สัตว์น้ำ","noun"
+"	",
+"	",
+"	",
+"	",
+"	",
+"	",
+"	",
+"	",
+"	",
+"	",
+"คณะ","noun,classifier"
+"เกษตรศาสตร์","noun"
+" ",
+"มหาวิทยาลัยเชียงใหม่","noun"
+"	",
+"	",
+"	",
+"	",
+"	",
+"เป็น","verb,transitive,intransitive,prefix,conjunction,preposition"
+"สาขา","noun"
+"วิชา","noun,classifier"
+"ที่","pronoun,preposition,noun,conjunction,prefix,particle,classifier"
+"รับผิดชอบ","verb,intransitive"
+"ใน","preposition"
+"การเรียนการสอน","noun,phrase"
+" ",
+"การวิจัย","noun"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"และ","conjunction"
+"ส่งเสริม","verb,phrase"
+"เผยแพร่","verb"
+"วิชาการ","noun,adjective,phrase"
+"สาขา","noun"
+"วิชา","noun,classifier"
+"สัตวศาสตร์","noun,phrase"
+" ",
+"(",
+"Animal",
+" ",
+"Science",
+")",
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"โดย","preposition,prefix"
+"มี","verb,transitive,noun,adjective"
+"หลักสูตร","noun"
+"ที่","pronoun,preposition,noun,conjunction,prefix,particle,classifier"
+"ประกอบด้วย","adjective"
+"กระบวน","noun,classifier"
+"วิชา","noun,classifier"
+"ต่างๆ","adjective,adverb"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"นอก","adjective,adverb,noun"
+"เหนือ","adjective,preposition,noun"
+"ไป","verb,transitive,intransitive,noun,adjective"
+"จาก","preposition,adjective,verb,noun"
+"กระบวน","noun,classifier"
+"วิชา","noun,classifier"
+"ต่างๆ","adjective,adverb"
+" ",
+"ใน","preposition"
+"ด้าน","noun,adjective,classifier"
+"สัตวศาสตร์","noun,phrase"
+"ที่","pronoun,preposition,noun,conjunction,prefix,particle,classifier"
+"แบ่งออก","verb"
+"ได้เป็น","verb"
+"สาขา","noun"
+"ต่างๆ","adjective,adverb"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"ได้แก่","conjunction"
+" ",
+"โภชนศาสตร์","noun,phrase"
+"สัตว์","noun,adjective"
+" ",
+"การผลิต","noun"
+"สัตว์","noun,adjective"
+"เศรษฐกิจ","noun,phrase"
+"ต่างๆ","adjective,adverb"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"การปรับปรุง","noun"
+"พันธุ์","noun,classifier"
+"สัตว์","noun,adjective"
+" ",
+"สรีรวิทยา","noun,phrase"
+" ",
+"วิทยาศาสตร์","noun,phrase"
+"เนื้อสัตว์","noun"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"และ","conjunction"
+"สุข","adjective,prefix,noun"
+"ศาสตร์","noun"
+"สัตว์","noun,adjective"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"นอกจากนี้","adverb"
+"นักศึกษา","noun"
+"ยัง","adverb,verb,preposition,adjective"
+"ต้องทำ","verb"
+"การ","noun,adverb"
+"ฝึกงาน","verb"
+"เพื่อให้","conjunction"
+"เกิด","verb,transitive,intransitive,noun,adjective"
+"ทักษะ","noun"
+"เกี่ยวกับ","preposition"
+"การเกษตร","noun"
+"ทั่วไป","adverb"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"และ","conjunction"
+"ทาง","noun,preposition,verb,classifier"
+"ด้าน","noun,adjective,classifier"
+"สัตวศาสตร์","noun,phrase"
+"เป็นระยะ","adverb,phrase"
+"เวลา","noun,conjunction"
+"ไม่","particle"
+"ต่ำกว่า","preposition"
+" ",
+"300",
+" ",
+"ชั่วโมง","noun,classifier"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"ใน","preposition"
+"ฟาร์ม","noun"
+"ของ","preposition,noun,verb"
+"มหาวิทยาลัย","noun"
+" ",
+"และ","conjunction"
+"เอกชน","noun,adjective"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"โดยใช้","conjunction"
+"ระยะเวลา","noun"
+"ใน","preposition"
+"การศึกษา","noun"
+"หลักสูตร","noun"
+"ปริญญาตรี","noun,phrase"
+"เป็นเวลา","adjective"
+" ",
+"4",
+" ",
+"ปี","noun,classifier"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"หลักสูตร","noun"
+"บัณฑิตศึกษา","noun"
+"ระดับ","noun"
+"ปริญญาโท","noun,phrase"
+" ",
+"เป็นเวลา","adjective"
+" ",
+"2",
+" ",
+"ปี","noun,classifier"
+" ",
+"และ","conjunction"
+"ปริญญาเอก","noun,phrase"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"3",
+" ",
+"ปี","noun,classifier"
+"	",
+"	",
+"	",
+"	",
+"	",
+"ผู้","noun,particle,adjective,pronoun"
+"สำเร็จการศึกษา","verb,intransitive,phrase"
+"นี้","adjective"
+"สามารถ","adjective,verb,noun"
+"ประกอบอาชีพ","verb"
+"ส่วนตัว","adjective"
+"ที่","pronoun,preposition,noun,conjunction,prefix,particle,classifier"
+"เกี่ยวข้อง","adjective"
+"กับ","preposition,conjunction,adverb,noun"
+"การผลิต","noun"
+"สัตว์","noun,adjective"
+"ทุกชนิด","noun"
+"ใน","preposition"
+"ขั้นตอน","noun"
+"ต่างๆ","adjective,adverb"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"กัน","adverb,conjunction,verb,transitive,noun,pronoun"
+"ตาม","adverb,preposition,verb,transitive"
+"ความเหมาะสม","noun"
+" ",
+"เช่น","noun,conjunction,adjective"
+" ",
+"ผลิต","verb,transitive,intransitive,noun"
+"และ","conjunction"
+"จำหน่าย","verb"
+"อาหาร","noun"
+"สัตว์","noun,adjective"
+" ",
+"พันธุ์","noun,classifier"
+"สัตว์","noun,adjective"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"และ","conjunction"
+"วัสดุ","noun"
+"อุปกรณ์","noun"
+"ต่างๆ","adjective,adverb"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"หรือ","conjunction,particle"
+"ทำงาน","verb"
+"ใน","preposition"
+"บริษัทเอกชน","noun"
+"ด้าน","noun,adjective,classifier"
+"ธุรกิจ","noun"
+"การผลิต","noun"
+"สัตว์","noun,adjective"
+"ทั้ง","adjective,adverb,preposition,conjunction"
+"ใน","preposition"
+"และ","conjunction"
+"ต่างประเทศ","noun,adjective"
+" ",
+"	",
+"	",
+"	",
+"	",
+"	",
+"โดยเฉพาะอย่างยิ่ง","adverb"
+"ใน","preposition"
+"ปัจจุบัน","adverb,adjective"
+"ที่","pronoun,preposition,noun,conjunction,prefix,particle,classifier"
+"ธุรกิจ","noun"
+"การผลิต","noun"
+"สัตว์","noun,adjective"
+"ภาคเอกชน","noun"
+"ของ","preposition,noun,verb"
+"ประเทศ","noun"
+"ไทย","adjective,noun"
+"มี","verb,transitive,noun,adjective"
+"การดำเนิน","noun"
+"ธุรกิจ","noun"
+"ใน","preposition"
+"ต่างประเทศ","noun,adjective"
+"เพิ่มขึ้น","verb,intransitive,phrase"
+" ",
+"ทั้ง","adjective,adverb,preposition,conjunction"
+"ใน","preposition"
+"ภูมิภาค","noun,adjective"
+"อาเซียน","noun"
+"และ","conjunction"
+"ภูมิภาค","noun,adjective"
+"อื่นๆ","pronoun"
+" ",
+"	",
+"	",
+"	",
+"ทั่วโลก","adjective,phrase"
+"ที่","pronoun,preposition,noun,conjunction,prefix,particle,classifier"
+"กำลัง","noun"
+"ขยายตัว","verb"
+"เพิ่มขึ้น","verb,intransitive,phrase"
+"อย่างต่อเนื่อง","adverb,phrase"
+" ",
+"	",
+"	",
+"	",
+"ทำให้","verb,transitive"
+"ความต้องการ","noun"
+"นักวิชาการ","noun"
+"ชาวไทย","noun"
+"ที่จะ","conjunction"
+"ไป","verb,transitive,intransitive,noun,adjective"
+"ดำเนินการ","verb"
+"ใน","preposition"
+"ต่างประเทศ","noun,adjective"
+"เพิ่มขึ้น","verb,intransitive,phrase"
+"ตามไปด้วย","adverb"
+" ",
+"	",
+"	",
+"	",
+"นอกจากนี้","adverb"
+"ยังเป็น","verb"
+"ที่ต้องการ","adjective,phrase"
+"อย่างยิ่ง","adverb"
+"ใน","preposition"
+"หน่วยงานราชการ","noun"
+"ต่างๆ","adjective,adverb"
+" ",
+"	",
+"	",
+"	",
+"อาทิ","conjunction"
+" ",
+"กรม","noun,verb"
+"ปศุสัตว์","noun"
+" ",
+"กรม","noun,verb"
+"ส่งเสริม","verb,phrase"
+"การเกษตร","noun"
+"และ","conjunction"
+"กรม","noun,verb"
+"อื่นๆ","pronoun"
+" ",
+"	",
+"	",
+"	",
+"ใน","preposition"
+"กระทรวงเกษตรและสหกรณ์","noun"
+" ",
+"หรือ","conjunction,particle"
+"หน่วยงาน","noun"
+"อื่นๆ","pronoun"
+" ",
+"เช่น","noun,conjunction,adjective"
+" ",
+"กรม","noun,verb"
+"อา","noun,particle,interjection,adjective"
+"ชีว","noun,adjective,particle,prefix"
+"ศึกษา","verb,noun"
+" ",
+"	",
+"	",
+"	",
+"สถาบัน","noun,classifier"
+"ราช","adjective"
+"ภัฎ",
+" ",
+"	",
+"	",
+"	",
+"กรมประชาสงเคราะห์","noun"
+"และ","conjunction"
+"หน่วยงาน","noun"
+"ต่างๆ","adjective,adverb"
+" ",
+"ของ","preposition,noun,verb"
+"ทหาร","adjective,noun"
+" ",
+"เช่น","noun,conjunction,adjective"
+" ",
+"กรม","noun,verb"
+"การ","noun,adverb"
+"สัตว์","noun,adjective"
+"ทหารบก","noun"
+" ",
+"กร","noun,particle,poetic"
+"ป",
+".",
+"กลาง","noun,adjective,preposition,adverb"
+" ",
+"	",
+"	",
+"	",
+"และ","conjunction"
+"ธนาคาร","noun"
+"ต่างๆ","adjective,adverb"
+" ",
+"ใน","preposition"
+"ส่วน","conjunction,noun,classifier"
+"ที่","pronoun,preposition,noun,conjunction,prefix,particle,classifier"
+"เกี่ยวกับ","preposition"
+"สินเชื่อ","noun"
+"การเกษตร","noun"
+" ",
+"	",
+"	",
+"	",
+"ตลอดจน","preposition"
+"องค์การ","noun"
+"พัฒนา","verb,noun"
+"เอกชน","noun,adjective"
+"ต่างๆ","adjective,adverb"
+" ",
+"เป็นต้น","adverb"
+"All",
+" ",
+"rights",
+" ",
+"reserved",
+" ",
+"Terms",
+" ",
+"of",
+" ",
+"used",
+" ",
+"@",
+" ",
+"2011",
+":",
+":",
+" ",
+"	",
+"	",
+"Best",
+" ",
+"view",
+" ",
+"in",
+" ",
+"1440",
+"*",
+"900",
+" ",
+"pixel",
+" ",
+":",
+":",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"	",
+"	",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+" ",
+"	",
+"	",
+"ภาค","noun,classifier"
+"วิชา","noun,classifier"
+"สัตวศาสตร์","noun,phrase"
+"และ","conjunction"
+"สัตว์น้ำ","noun"
+" ",
+"คณะ","noun,classifier"
+"เกษตรศาสตร์","noun"
+" ",
+"	",
+"	",
+"มหาวิทยาลัยเชียงใหม่","noun"
+" ",
+"239",
+" ",
+"ถ",
+".",
+"ห้วย","noun"
+"แก้ว","noun,adjective,poetic,classifier"
+" ",
+"	",
+"	",
+"ต",
+".",
+"สุ","prefix"
+"เทพ","noun,adjective"
+" ",
+"อ","prefix"
+".",
+"เมือง","noun,adjective,classifier"
+" ",
+"จ.","noun"
+"เชี",
+"ยง","adjective"
+"ใหม่","adjective,adverb,prefix"
+" ",
+"50200",
+"Department",
+" ",
+"of",
+" ",
+"Animal",
+" ",
+"and",
+" ",
+"Aquatic",
+" ",
+"Science",
+" ",
+",",
+" ",
+"Faculty",
+" ",
+"of ",
+"	",
+"	",
+"Agriculture",
+",",
+" ",
+"Chiang",
+" ",
+"Mai",
+" ",
+"University ",
+" ",
+"239",
+" ",
+"Huay",
+" ",
+"Kaew",
+" ",
+"Rd",
+".",
+",",
+" ",
+"Suthep",
+",",
+" ",
+"Muang",
+",",
+" ",
+"Chiang",
+" ",
+"Mai ",
+"	",
+"	",
+"50200",
+"	",
+"	",
+"หัวหน้า","noun"
+"ภาค","noun,classifier"
+"วิชา","noun,classifier"
+":",
+" ",
+"	",
+"	",
+"รอง","verb,transitive,intransitive,adjective"
+"ศาสตราจารย์","noun"
+" ",
+"ดร",
+".",
+"สุ","prefix"
+"ชน","verb,noun"
+" ",
+"ตั้ง","verb,transitive,noun,adverb,preposition,adjective,intransitive,classifier"
+"ทวี","verb"
+"วิพัฒน์",
+" ",
+"	",
+"	",
+"ติดต่อ","verb"
+"ภาค","noun,classifier"
+"วิชา","noun,classifier"
+":",
+" ",
+"คุณ","pronoun,noun,adjective"
+"แสงดาว","noun"
+"แบน","adjective,verb,transitive,classifier"
+"ซิ","particle"
+"เก","adjective,verb"
+"อ","prefix"
+"ร์",
+" ",
+"โทรศัพท์","noun"
+":",
+" ",
+"0",
+"-",
+"5322",
+"-",
+"1667,",
+"0",
+"-",
+"5394",
+"-",
+"4069",
+"-",
+"73",
+":",
+":",
+"โทรสาร","noun"
+":",
+" ",
+"0",
+"-",
+"5335",
+"-",
+"7601,",
+"0",
+"-",
+"5394",
+"-",
+"4666",
+"Webmaster",
+":",
+":",
+" ",
+"	",
+"	",
+"คุณ","pronoun,noun,adjective"
+"รุ่ง","noun,verb,prefix"
+"กา","verb,noun,adjective"
+"นต์",
+" ",
+"กัน","adverb,conjunction,verb,transitive,noun,pronoun"
+"ทะหงษ์",
+" ",
+":",
+":",
+"โทรศัพท์","noun"
+":",
+" ",
+"0",
+"-",
+"5394",
+"-",
+"4104",
+"E",
+"-",
+"mail",
+":",
+" ",
+"deerkp",
+"@",
+"hotmail",
+".",
+"com",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"	",
+"	",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+"-",
+" ",
+" ",
+"คณะ","noun,classifier"
+"เกษตรศาสตร์","noun"
+" ",
+"มหาวิทยาลัยเชียงใหม่","noun"
+":",
+":",
+"	",
+"	",
+"www",
+".",
+"agri",
+".",
+"cmu",
+".",
+"ac",
+".",
+"th",

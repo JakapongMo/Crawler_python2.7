@@ -1,0 +1,3 @@
+javac -Xlint LongLexTo.java
+
+java LongLexTo input.txt output.csv
