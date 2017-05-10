@@ -7,6 +7,8 @@ import os
 import time
 import csv
 from bs4 import BeautifulSoup
+from string import whitespace
+
 
 file_path = '/home/tengmo/crawler_to_server/store/4000filter.arc'
 dict_site = eval(open("/home/tengmo/crawler_to_server/output/dict_site.txt").read())
@@ -272,13 +274,31 @@ def Find_content(html_content):
     content = get_content_total(html_content)
     return content
 
-###############################################################################
+################################################################################
 def get_content_total(html_content):
     soup = BeautifulSoup(html_content, 'lxml')
     text = soup.get_text()
     return text
 
+################################################################################
+def Find_line_content(html_content, title):
+    content = get_content_total(html_content)
+    content = content.strip()
+    content= content.split('\n')
+    new_content = []
+    for line in content:
+        if line == '':
+            continue
+        new_content.append(line)
 
+    if title == 'No_title':
+        return len(new_content)
+    else:
+        return len(new_content) - 1
+
+
+
+################################################################################
 def Wordcount(content, title, charset):
     global ENG
     global NO_CONTENT
@@ -449,6 +469,7 @@ for line in lineList:
         Nb_word_in_URL = Find_Nb_Word_In_URL(URL)
         content = Find_content(html_content)
         count_title, count_content = Wordcount(content, title, check_charset(title))
+        line_content = Find_line_content(html_content, title)
 
         '''
         print line_1.rstrip()
@@ -476,6 +497,7 @@ for line in lineList:
         print count_content
         print "-------------------------"
         '''
+
         print "URL : ", URL
         print "title : ", title
         print "word_in_title : ", count_title
@@ -490,6 +512,7 @@ for line in lineList:
         print "Number_of_word_in_URL : ", Nb_word_in_URL
         print "Number_of_outgoing : ", link
         print "Numer_of_webpage_in_the_same_site : ", dict_site[site]
+        print "Number_of_line_in_content :",line_content
         print "\n"
 
 ############################################################################################
@@ -500,6 +523,7 @@ for line in lineList:
         line_5 = ''
         line_6 = ''
         html_content = ''
+
 
     if cnt_begin == cnt_end:
         if index == 1:
@@ -518,6 +542,7 @@ for line in lineList:
             html_content = ''
         if index > 7 :
             html_content += line
+
 ############################################################################################
 
 
