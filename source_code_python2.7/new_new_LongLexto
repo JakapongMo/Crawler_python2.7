@@ -1,0 +1,627 @@
+URL :  http://anatomy.md.kku.ac.th/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  15
+Number_of_word :  2
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  21
+Number_of_word_in_URL :  5
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 1
+
+
+URL :  http://agri.kps.ku.ac.th/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  238
+Number_of_word :  3
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  18
+Number_of_word_in_URL :  5
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 1
+
+
+URL :  http://anchan.lib.ku.ac.th/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  177
+Number_of_word :  12
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  20
+Number_of_word_in_URL :  5
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 3
+
+
+URL :  http://9airmobile.thaigov.net/
+title :  Systems under maintenance
+word_in_title :  2
+content_type :  1
+content_length:  162
+Number_of_word :  0
+Number_of_picture :  1
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000100000
+URL_Length :  23
+Number_of_word_in_URL :  3
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+URL :  http://anreg.cpe.ku.ac.th/
+title :  ASAT: Anres Simple Authentication Tools
+word_in_title :  5
+content_type :  1
+content_length:  244
+Number_of_word :  0
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  19
+Number_of_word_in_URL :  5
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+URL :  http://amed.go.th/
+title :  กรมแพทย์ทหารบก
+word_in_title :  3
+content_type :  1
+content_length:  761
+Number_of_word :  0
+Number_of_picture :  2
+Number_of_table :  1
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000001
+URL_Length :  11
+Number_of_word_in_URL :  3
+Number_of_outgoing :  2
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+URL :  http://3d.co.th/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  115
+Number_of_word :  0
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000001000
+URL_Length :  9
+Number_of_word_in_URL :  3
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  2
+Number_of_line_in_content : 0
+
+
+URL :  http://3d.co.th/2012/king9/index.html
+title :  king9
+word_in_title :  1
+content_type :  1
+content_length:  667
+Number_of_word :  7
+Number_of_picture :  2
+Number_of_table :  0
+Number_of_slash_in_URL_path :  2
+binary_vector :  0000001000
+URL_Length :  28
+Number_of_word_in_URL :  7
+Number_of_outgoing :  2
+Numer_of_webpage_in_the_same_site :  2
+Number_of_line_in_content : 5
+
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+URL :  http://amarin.co.th/
+title :  ธ สถิตในดวงใจ ไทยนิรันดร์
+word_in_title :  4
+content_type :  1
+content_length:  452
+Number_of_word :  7
+Number_of_picture :  1
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000001000
+URL_Length :  13
+Number_of_word_in_URL :  3
+Number_of_outgoing :  1
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 1
+
+
+URL :  http://100watts.com/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  104
+Number_of_word :  0
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  13
+Number_of_word_in_URL :  2
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+URL :  http://admissions.payap.ac.th/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  228
+Number_of_word :  8
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  23
+Number_of_word_in_URL :  4
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 2
+
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+URL :  http://agro.psu.ac.th/
+title :  คณะอุตสาหกรรมเกษตร มหาวิทยาลัยสงขลานครินทร์
+word_in_title :  4
+content_type :  1
+content_length:  1572
+Number_of_word :  20
+Number_of_picture :  1
+Number_of_table :  1
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  15
+Number_of_word_in_URL :  4
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 7
+
+
+URL :  http://adb.envi.psu.ac.th/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  107
+Number_of_word :  0
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  19
+Number_of_word_in_URL :  5
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+URL :  http://acc.msu.ac.th/
+title :  คณะการบัญชีและการจัดการ มหาวิทยาลัยมหาสารคาม Mahasarakham Business School Mahasarakham University.
+word_in_title :  10
+content_type :  1
+content_length:  982
+Number_of_word :  12
+Number_of_picture :  2
+Number_of_table :  1
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  14
+Number_of_word_in_URL :  4
+Number_of_outgoing :  1
+Numer_of_webpage_in_the_same_site :  2
+Number_of_line_in_content : 7
+
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+URL :  http://acc.msu.ac.th/index2016.php
+title :  คณะการบัญชีและการจัดการ มหาวิทยาลัยมหาสารคาม Mahasarakham Business School Mahasarakham University.
+word_in_title :  10
+content_type :  1
+content_length:  982
+Number_of_word :  12
+Number_of_picture :  2
+Number_of_table :  1
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  27
+Number_of_word_in_URL :  6
+Number_of_outgoing :  1
+Numer_of_webpage_in_the_same_site :  2
+Number_of_line_in_content : 7
+
+
+URL :  http://apl1.sci.kmitl.ac.th/
+title :  APL1 server for Microcontroller Lab Experiments
+word_in_title :  5
+content_type :  1
+content_length:  970
+Number_of_word :  13
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  21
+Number_of_word_in_URL :  5
+Number_of_outgoing :  1
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 3
+
+
+URL :  http://4x4.in.th/
+title :  -=-=- Welcome to www.4x4.in.th and Suzuki4x4.com - The Biggest Suzuki4x4 Club in Thailand -=-=-
+word_in_title :  10
+content_type :  1
+content_length:  -1
+Number_of_word :  147
+Number_of_picture :  33
+Number_of_table :  19
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000100
+URL_Length :  10
+Number_of_word_in_URL :  3
+Number_of_outgoing :  34
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 61
+
+
+URL :  http://101servers.com/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  34
+Number_of_word :  0
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  15
+Number_of_word_in_URL :  2
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+URL :  http://ads.thaiware.com/
+title :  Revive Adserver
+word_in_title :  2
+content_type :  1
+content_length:  4013
+Number_of_word :  65
+Number_of_picture :  3
+Number_of_table :  2
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  17
+Number_of_word_in_URL :  3
+Number_of_outgoing :  2
+Numer_of_webpage_in_the_same_site :  3
+Number_of_line_in_content : 28
+
+
+URL :  http://ads.thaiware.com/www/admin/index.php
+title :  Revive Adserver
+word_in_title :  2
+content_type :  1
+content_length:  4013
+Number_of_word :  65
+Number_of_picture :  3
+Number_of_table :  2
+Number_of_slash_in_URL_path :  2
+binary_vector :  1000000000
+URL_Length :  34
+Number_of_word_in_URL :  7
+Number_of_outgoing :  2
+Numer_of_webpage_in_the_same_site :  3
+Number_of_line_in_content : 28
+
+
+URL :  http://ads.thaiware.com/www/admin/password-recovery.php
+title :  Revive Adserver
+word_in_title :  2
+content_type :  1
+content_length:  2809
+Number_of_word :  56
+Number_of_picture :  2
+Number_of_table :  1
+Number_of_slash_in_URL_path :  2
+binary_vector :  1000000000
+URL_Length :  46
+Number_of_word_in_URL :  8
+Number_of_outgoing :  1
+Numer_of_webpage_in_the_same_site :  3
+Number_of_line_in_content : 18
+
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+URL :  http://animal.in.th/
+title :  บ้าน.ไทย : ลงโฆษณา ซื้อขาย บ้าน ที่ดิน อสังหาริมทรัพย์ ทั่วไทยฟรี
+word_in_title :  10
+content_type :  1
+content_length:  -1
+Number_of_word :  500
+Number_of_picture :  27
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000100
+URL_Length :  13
+Number_of_word_in_URL :  3
+Number_of_outgoing :  72
+Numer_of_webpage_in_the_same_site :  3
+Number_of_line_in_content : 161
+
+
+URL :  http://animal.agri.cmu.ac.th/
+title :  ҤԪѵʵѵ ɵʵ Է§
+word_in_title :  -1
+content_type :  1
+content_length:  5928
+Number_of_word :  -1
+Number_of_picture :  6
+Number_of_table :  3
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  22
+Number_of_word_in_URL :  5
+Number_of_outgoing :  6
+Numer_of_webpage_in_the_same_site :  3
+Number_of_line_in_content : 16
+
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+*******************************
+*** LexTo: Lexeme Tokenizer ***
+*******************************
+
+ *** Status: Use Text Editor to view result: output.csv
+
+URL :  http://animal.agri.cmu.ac.th/greet.htm
+title :  ภาควิชาสัตวศาสตร์และสัตว์น้ำ คณะเกษตรศาสตร์ มหาวิทยาลัยเชียงใหม่
+word_in_title :  7
+content_type :  1
+content_length:  19639
+Number_of_word :  287
+Number_of_picture :  5
+Number_of_table :  5
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000000010
+URL_Length :  31
+Number_of_word_in_URL :  7
+Number_of_outgoing :  2
+Numer_of_webpage_in_the_same_site :  3
+Number_of_line_in_content : 65
+
+
+URL :  http://asiasoft.co.th/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  91
+Number_of_word :  0
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  0000001000
+URL_Length :  15
+Number_of_word_in_URL :  3
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+URL :  http://atjapan.pantipmember.com/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  -1
+Number_of_word :  0
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  25
+Number_of_word_in_URL :  3
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 0
+
+
+URL :  http://9korn.reddiary.com/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  -1
+Number_of_word :  116
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  19
+Number_of_word_in_URL :  3
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 33
+
+
+URL :  http://adslthailand.com/
+title :  adslthailand 2017 Edition
+word_in_title :  3
+content_type :  1
+content_length:  -1
+Number_of_word :  1079
+Number_of_picture :  16
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  17
+Number_of_word_in_URL :  2
+Number_of_outgoing :  139
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 443
+
+
+URL :  http://atimemedia.com/
+title :  Atime Media
+word_in_title :  2
+content_type :  1
+content_length:  -1
+Number_of_word :  1426
+Number_of_picture :  10
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  15
+Number_of_word_in_URL :  2
+Number_of_outgoing :  6
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 317
+
+
+URL :  http://adex.shinbroadband.com/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  20540
+Number_of_word :  396
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  23
+Number_of_word_in_URL :  3
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 43
+
+
+URL :  http://area-family.com/
+title :  No_title
+word_in_title :  0
+content_type :  1
+content_length:  -1
+Number_of_word :  116
+Number_of_picture :  0
+Number_of_table :  0
+Number_of_slash_in_URL_path :  0
+binary_vector :  1000000000
+URL_Length :  16
+Number_of_word_in_URL :  3
+Number_of_outgoing :  0
+Numer_of_webpage_in_the_same_site :  1
+Number_of_line_in_content : 33
+
+
+#####################################################################################
+SUMARY
+- HAVE_TITLE :  18
+- NO_TITLE   :  13
+TH :  7
+ENG :  17
+OTHER LANGUAGE :  1
+NO_CONTENT :  6
+
+Type_text
+text/html :  31
+text/plain:  0
+text/Not_Identified :  0
+text/other :  0
+EXECUTE TIME  --- 4.71192884445 seconds ---
+#####################################################################################

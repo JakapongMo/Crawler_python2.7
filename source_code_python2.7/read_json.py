@@ -10,6 +10,4 @@ import json
 data= eval(open("/home/tengmo/crawler_to_server/output/json_dict.json").read())
 #print data['http://area-family.com/']
 
-
-#data = [s.encode('utf-8') for s in data]
-#print data['http://area-family.com/']
+print data

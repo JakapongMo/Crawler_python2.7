@@ -232,16 +232,16 @@ def Find_type_of_text(line_5):
         new_word = "Not_Identified"
     if new_word == "text/html":
         text_html += 1
-        return "1"
+        return 1
     if new_word == "text/plain":
         text_plain += 1
-        return "2"
+        return 2
     if new_word == "Not_Identified":
         text_Not_itdentified += 1
-        return "3"
+        return 3
     else:
         text_other += 1
-        return "-1"
+        return -1
 
 ################################################################################
 
@@ -464,7 +464,7 @@ for line in lineList:
 
 #######################################-Rotate-##############################################
         #Use(line_1, line_2, line_3, line_4, line_5, line_6, html_content)
-        title =  Find_title_def(html_content)
+        title =  Find_title_def(html_content).strip()
         URL, Nb_slash, len_URL = Find_URL_NB_Slash_LenURL(line_1)
         binary_domain = Find_binary_domain(URL)
         site = Find_site(line_1)
@@ -476,32 +476,6 @@ for line in lineList:
         count_title, count_content = Wordcount(content, title, check_charset(title))
         line_content = Find_line_content(html_content, title)
 
-        '''
-        print line_1.rstrip()
-        print title
-        binary_domain = Find_binary_domain(URL)
-        print (binary_domain)
-        site = Find_site(line_1)
-        print site
-        content_length = Find_content_length(line_6)
-        print content_length
-        text_type = Find_type_of_text(line_5)
-        print "text_type : ",text_type
-        link, table , picture = Find_Nb_link_pic_table(html_content)
-        print "Nb_link : ",link
-        print "Nb_table",table
-        print "Nb_picture",picture
-        print check_charset(title)
-        Nb_word_in_URL = Find_Nb_Word_In_URL(URL)
-        print title
-        print URL
-        print Nb_word_in_URL
-        content = Find_content(html_content)
-        count_title, count_content = Wordcount(content, title, check_charset(title))
-        print count_title
-        print count_content
-        print "-------------------------"
-        '''
 
         print "URL : ", URL
         print "title : ", title
@@ -519,12 +493,15 @@ for line in lineList:
         print "Numer_of_webpage_in_the_same_site : ", dict_site[site]
         print "Number_of_line_in_content :",line_content
         print "\n"
+
         json_dict[URL] = {"word_in_title":count_title, "content_type":text_type,"content_length": content_length,
                           "Number_of_word": count_content, "Number_of_picture": picture, "Number_of_table": table,
                           "Number_of_slash_in_URL_path": Nb_slash, "binary_vector":binary_domain,
-                           "Number_of_word_in_URL": Nb_word_in_URL ,"URL_Length":len_URL,
+                           "URL_Length":len_URL,"Number_of_word_in_URL": Nb_word_in_URL ,
                            "Number_of_outgoing": link , "Numer_of_webpage_in_the_same_site":dict_site[site],
-                           "Number_of_line_in_content":line_content}
+                           "Number_of_line_in_content":line_content,
+                           "Array_Feature":[count_title,text_type,content_length,count_content,picture,table,
+                            Nb_slash,binary_domain,len_URL, Nb_word_in_URL,link,dict_site[site] ]}
 
 ############################################################################################
         line_1 = ''
@@ -559,7 +536,7 @@ for line in lineList:
 
 
 ###########################-SUMARY-#########################################################
-print json_dict
+#print json_dict
 
 with open('/home/tengmo/crawler_to_server/output/json_dict.txt', 'w') as outfile:
      json.dump(json_dict, outfile, sort_keys = True, indent = 4,

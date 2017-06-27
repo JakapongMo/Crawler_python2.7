@@ -304,7 +304,22 @@ def Wordcount(content, title, charset):
     global NO_CONTENT
     global OTHER
     global TH
+    ###############-only-Eng-word-count###################
+    '''
+    count = Wordcount_Eng(content)
+    count_title = Wordcount_Eng(title)
+    if title == "No_title":
+        count_title = 0
+    count_content = count - count_title
+    #print ("title :", title)
 
+    if count_title == 0 and count_content == 0:
+        NO_CONTENT += 1
+    else:
+        ENG += 1
+    yield count_title
+    yield count_content
+    '''
     if (charset == "Thai"):
         #content = Convert_to_Thai(content)
         newtitle = "".join(title.split())
@@ -339,6 +354,7 @@ def Wordcount(content, title, charset):
         yield -1
         yield -1
 
+
 ################################################################################
 
 def Wordcount_Thai(text):
@@ -356,15 +372,17 @@ def Wordcount_Thai(text):
 			"ณ","ด","ต","ถ","ท","ธ","น","บ","ป","ผ","ฝ","พ","ฟ","ภ","ล","ว","ศ",
             "ษ","ห","ฬ","อ","ฮ", "จาก", "ๆ", "นะ", "1", "2", "3", "4", "5", "6", "7", "8", "9", "."]
 
-    with open('/home/tengmo/crawler_to_server/output_thai/cutword/input.txt' , 'w') as out:
+    #with open('/home/tengmo/crawler_to_server/output_thai/cutword/input.txt' , 'w') as out:
+    with open('/home/tengmo/crawler_to_server/output_thai/git/word-parser-noPartOfSpeech/wordcut/input.txt' , 'w') as out:
         out.write(text)
-    command= os.popen("bash /home/tengmo/crawler_to_server/source_code_python2.7/cat_input.bash")
-    datainput = command.read()
+    #command= os.popen("bash /home/tengmo/crawler_to_server/source_code_python2.7/cat_input.bash")
+    #datainput = command.read()
     #print(datainput)
     command= os.popen("bash /home/tengmo/crawler_to_server/source_code_python2.7/runjava.bash")
     datainput = command.read()
-    #print(datainput)
-    with open('/home/tengmo/crawler_to_server/output_thai/cutword/output.csv', 'r') as csvfile:
+    print(datainput)
+    #with open('/home/tengmo/crawler_to_server/output_thai/cutword/output.csv', 'r') as csvfile:
+    with open('/home/tengmo/crawler_to_server/output_thai/git/word-parser-noPartOfSpeech/wordcut/output.csv', 'r') as csvfile:
         reader = csv.DictReader(csvfile)
         try:
             for row in reader:
